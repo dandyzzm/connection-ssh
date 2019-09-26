@@ -38,5 +38,7 @@ public class ConnectionSSH {
         }
         channel.disconnect();
         session.disconnect();
+
+
     }
 }
